@@ -1,7 +1,7 @@
 ### Hi there 👋 <br>
 😴 I’m currently working on sleeping more ...<br>
-💬 Ask me about food 🥫...
-😁😁😁�
+💬 Ask me about food 🥫... <br>
+😁😁😁
 
 <!--
 **IKSopnil/IKSopnil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
