@@ -3,6 +3,7 @@
 💬 Ask me about food 🥫... <br>
 😁😁😁
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=IKSopnil)
 
 <!--
 **IKSopnil/IKSopnil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
