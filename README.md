@@ -1,4 +1,4 @@
-<meta name="description" content="IKSopnil">
+<meta name="description" content="IKSopnil. It's my github page with multiple repositories. Check it out.">
 
 ### Hi there 👋 <br>
 😴 I’m currently working on sleeping more ...<br>
