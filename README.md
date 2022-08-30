@@ -13,7 +13,7 @@ IKSopnil
 
 STAT 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=IKSopnil)
+
   ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=IKSopnil&show_icons=true&theme=radical)
 
 <!--
