@@ -1,4 +1,4 @@
-<title>IKSopnil</title>
+IKSopnil
 <meta name="description" content="IKSopnil. It's my github page with multiple repositories. Check it out.">
 <link rel="author" href="https://github.com/IKSopnil"/>
 
