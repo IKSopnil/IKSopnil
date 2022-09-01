@@ -1,8 +1,9 @@
 <html>
   <head>
  <meta name="iksopnil github" content="iksopnil github" />
-    <meta name="iksopnil github" content="iksopnil github" />
-     <meta name="iksopnil github" content="ibrahim khalil sopnil" />
+    <meta name="ibrahim khalil sopnil" content="iksopnil github" />
+     <meta name="iksopnil " content="ibrahim khalil sopnil" />
+    <meta name="sopnil" content="sopnil" />
   </head>
 <body>
 IKSopnil
