@@ -15,7 +15,6 @@ IKSopnil
 
   
 ![](https://komarev.com/ghpvc/?username=IKSopnil&color=dc143c)
-<a href="https://instagram.com/__sopnil"><img align="left" src="https://raw.githubusercontent.com/__sopnil/__sopnil/main/images/instagram.svg" alt="IKSopnil | Instagram" width="21px"/></a>
 
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IKSopnil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
