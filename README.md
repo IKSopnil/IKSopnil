@@ -15,9 +15,9 @@ IKSopnil
 
   
 ![](https://komarev.com/ghpvc/?username=IKSopnil&color=dc143c)
-
+ [![alt text][2.1]][2]
  [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-  [2]: http://www.facebook.com/ibrahimkhalil.sopnil
+ [2]: http://www.facebook.com/ibrahimkhalil.sopnil
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IKSopnil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 STAT 
