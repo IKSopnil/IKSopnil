@@ -1,9 +1,11 @@
 <html>
   <head>
- <meta name="iksopnil github" content="iksopnil github" />
-    <meta name="ibrahim khalil sopnil" content="iksopnil github" />
-     <meta name="iksopnil " content="ibrahim khalil sopnil" />
-    <meta name="sopnil" content="sopnil" />
+ 
+    <title>Ibrahim Khalil Sopnil - iksopnil github account</title>
+   <meta name="description" content="Welcome to my GitHub account! Here you will find my latest projects and contributions to the world of computer science.">
+  <meta name="keywords" content="iksopnil, ibrahim khalil sopnil, github account, computer science">
+
+   
   </head>
 <body>
 IKSopnil
