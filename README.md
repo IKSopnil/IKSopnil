@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Sopnil, a full-time web developer 👨‍💻 exploring since 2020 🚀</div>  
+### <div align="center">I'm Sopnil, a full-time explorer and part-time web developer 👨‍💻 exploring since 2020 🚀</div>  
   
 
 - 🔭 I’m currently working on exploring more.   
