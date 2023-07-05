@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/IKSopnil/IKSopnil/blob/main/IMG_20230622_064109.jpg" align="center" height="400" width="400" />
+<img src="https://github.com/IKSopnil/IKSopnil/blob/main/IMG_20230622_064109a.jpg" align="center" height="400" width="400" />
 </div>  
   
 
